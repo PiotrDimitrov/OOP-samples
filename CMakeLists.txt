@@ -5,4 +5,5 @@ set(CMAKE_CXX_STANDARD 17)
 
 add_executable(OOP_samples main.cpp
         classAndObj.cpp
-        header.h)
+        header.h
+        classMethod.cpp)
