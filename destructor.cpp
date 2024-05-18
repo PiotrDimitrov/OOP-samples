@@ -8,7 +8,7 @@ namespace dstr{
             std::cout << "Constructor MyClass() called" << std::endl;
         }
         ~MyClass(){
-            std::cout << "Destructor MyClass() called" << std::endl; //descructor is called when main fuction (or other function) ends
+            std::cout << "Destructor MyClass() called" << std::endl; //destructor is called when main fuction (or other function) ends
         }
     };
 
@@ -18,7 +18,7 @@ namespace dstr{
     public:
         Example(int size) {
             data = new int[size]; //dynamic memory allocation
-            //we can avoid memory leak by using deconstructor
+            //we can avoid memory leak by using destructor
             std::cout << "Constructor Example() called" << std::endl;
         }
         ~Example() {
