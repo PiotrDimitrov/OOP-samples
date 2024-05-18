@@ -12,4 +12,5 @@ add_executable(OOP_samples main.cpp
         encapsulation.cpp
         classConstructor.cpp
         constructorOverload.cpp
-        destructor.cpp)
+        destructor.cpp
+        thisPtr.cpp)
