@@ -8,4 +8,5 @@ add_executable(OOP_samples main.cpp
         header.h
         classMethod.cpp
         accessModifier.cpp
-        getterSetter.cpp)
+        getterSetter.cpp
+        encapsulation.cpp)
