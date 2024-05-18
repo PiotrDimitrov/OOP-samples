@@ -7,5 +7,7 @@ void accessModifiers();
 void getterSetter();
 void encapsulation();
 void classConstructor();
+void constructorOverload();
+void destructor();
 
 #endif //OOP_SAMPLES_HEADER_H

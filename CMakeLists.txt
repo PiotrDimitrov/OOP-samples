@@ -11,4 +11,5 @@ add_executable(OOP_samples main.cpp
         getterSetter.cpp
         encapsulation.cpp
         classConstructor.cpp
-        constructorOverload.cpp)
+        constructorOverload.cpp
+        destructor.cpp)
