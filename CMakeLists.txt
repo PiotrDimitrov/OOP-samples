@@ -7,4 +7,5 @@ add_executable(OOP_samples main.cpp
         classAndObj.cpp
         header.h
         classMethod.cpp
-        accessModifier.cpp)
+        accessModifier.cpp
+        getterSetter.cpp)
