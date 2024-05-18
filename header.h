@@ -6,5 +6,6 @@ void classMethod();
 void accessModifiers();
 void getterSetter();
 void encapsulation();
+void classConstructor();
 
 #endif //OOP_SAMPLES_HEADER_H

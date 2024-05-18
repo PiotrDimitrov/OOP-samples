@@ -9,4 +9,5 @@ add_executable(OOP_samples main.cpp
         classMethod.cpp
         accessModifier.cpp
         getterSetter.cpp
-        encapsulation.cpp)
+        encapsulation.cpp
+        classConstructor.cpp)
