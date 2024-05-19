@@ -16,6 +16,7 @@ void equalityOperOvrld();
 void plusOperOvrld();
 void incrementOvrld();
 void indexOperOvrld();
-
+void friendFunc();
+void friendClassMethod();
 
 #endif //OOP_SAMPLES_HEADER_H
