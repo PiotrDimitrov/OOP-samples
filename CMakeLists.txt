@@ -18,4 +18,5 @@ add_executable(OOP_samples main.cpp
         assignOperOvrld.cpp
         equalityOperOvrld.cpp
         plusOperOvrld.cpp
-        incrementOvrld.cpp)
+        incrementOvrld.cpp
+        indexOperOvrld.cpp)
