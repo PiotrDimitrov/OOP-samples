@@ -14,4 +14,5 @@ add_executable(OOP_samples main.cpp
         constructorOverload.cpp
         destructor.cpp
         thisPtr.cpp
-        copyConstr.cpp)
+        copyConstr.cpp
+        assignOperOvrld.cpp)

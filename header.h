@@ -11,6 +11,6 @@ void constructorOverload();
 void destructor();
 void thisPtr();
 void copyConstr();
-void AssignOperOvrld();
+void assignOperOvrld();
 
 #endif //OOP_SAMPLES_HEADER_H
