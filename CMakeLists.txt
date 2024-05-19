@@ -24,4 +24,5 @@ add_executable(OOP_samples main.cpp
         friendClassMethod.cpp
         friendClass.cpp
         staticKey.cpp
-        innerClass.cpp)
+        innerClass.cpp
+        agregDelegat.cpp)
