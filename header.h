@@ -20,6 +20,6 @@ void friendFunc();
 void friendClassMethod();
 void friendClass();
 void staticKey();
-
+void innerClass();
 
 #endif //OOP_SAMPLES_HEADER_H
