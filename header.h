@@ -13,5 +13,9 @@ void thisPtr();
 void copyConstr();
 void assignOperOvrld();
 void equalityOperOvrld();
+void plusOperOvrld();
+void incrementOvrld();
+void indexOperOvrld();
+
 
 #endif //OOP_SAMPLES_HEADER_H

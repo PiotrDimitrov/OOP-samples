@@ -16,4 +16,5 @@ add_executable(OOP_samples main.cpp
         thisPtr.cpp
         copyConstr.cpp
         assignOperOvrld.cpp
-        equalityOperOvrld.cpp)
+        equalityOperOvrld.cpp
+        plusOperOvrld.cpp)
