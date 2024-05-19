@@ -27,4 +27,5 @@ add_executable(OOP_samples main.cpp
         innerClass.cpp
         agregDelegat.cpp
         inheritance.cpp
-        inherAccessMod.cpp)
+        inherAccessMod.cpp
+        multiInherit.cpp)

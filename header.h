@@ -24,5 +24,6 @@ void innerClass();
 void agregDelegat();
 void inheritance();
 void inherAccessMod();
+void multiInherit();
 
 #endif //OOP_SAMPLES_HEADER_H
