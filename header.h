@@ -22,6 +22,6 @@ void friendClass();
 void staticKey();
 void innerClass();
 void agregDelegat();
-
+void inheritance();
 
 #endif //OOP_SAMPLES_HEADER_H
