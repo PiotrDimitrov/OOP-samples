@@ -18,5 +18,6 @@ void incrementOvrld();
 void indexOperOvrld();
 void friendFunc();
 void friendClassMethod();
+void friendClass();
 
 #endif //OOP_SAMPLES_HEADER_H
