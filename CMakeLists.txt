@@ -19,4 +19,5 @@ add_executable(OOP_samples main.cpp
         equalityOperOvrld.cpp
         plusOperOvrld.cpp
         incrementOvrld.cpp
-        indexOperOvrld.cpp)
+        indexOperOvrld.cpp
+        friendFunc.cpp)
