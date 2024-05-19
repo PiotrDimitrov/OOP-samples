@@ -22,4 +22,5 @@ add_executable(OOP_samples main.cpp
         indexOperOvrld.cpp
         friendFunc.cpp
         friendClassMethod.cpp
-        friendClass.cpp)
+        friendClass.cpp
+        staticKey.cpp)

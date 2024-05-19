@@ -19,5 +19,7 @@ void indexOperOvrld();
 void friendFunc();
 void friendClassMethod();
 void friendClass();
+void staticKey();
+
 
 #endif //OOP_SAMPLES_HEADER_H
