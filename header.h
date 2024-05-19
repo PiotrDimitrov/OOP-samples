@@ -9,5 +9,8 @@ void encapsulation();
 void classConstructor();
 void constructorOverload();
 void destructor();
+void thisPtr();
+void copyConstr();
+void AssignOperOvrld();
 
 #endif //OOP_SAMPLES_HEADER_H
