@@ -12,5 +12,6 @@ void destructor();
 void thisPtr();
 void copyConstr();
 void assignOperOvrld();
+void equalityOperOvrld();
 
 #endif //OOP_SAMPLES_HEADER_H
