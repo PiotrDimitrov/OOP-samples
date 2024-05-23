@@ -23,6 +23,6 @@ namespace frmth{
     }
 }
 
-int main() {
-    std::cout << "Hello World!\n";
+void friendClassMethod() {
+
 }
