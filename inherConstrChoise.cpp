@@ -23,7 +23,7 @@ public:
 
     }
 };
-int inherConstrChoise() {
+void inherConstrChoise() {
     B value;
     value.print();
 }
