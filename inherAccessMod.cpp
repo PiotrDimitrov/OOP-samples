@@ -43,7 +43,7 @@ namespace inham{
 }
 
 
-void inhAccessMod(){
+void inherAccessMod(){
     inham::publicA publicA;
     inham::protectedA protectedA;
     inham::privateA privateA;
