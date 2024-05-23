@@ -29,5 +29,6 @@ void inherAndConst();
 void inherConstrChoise();
 void virtualMethods();
 void virtualOverride();
+void abstractClass();
 
 #endif //OOP_SAMPLES_HEADER_H
