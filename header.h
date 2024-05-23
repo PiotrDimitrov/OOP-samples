@@ -27,5 +27,6 @@ void inherAccessMod();
 void multiInherit();
 void inherAndConst();
 void inherConstrChoise();
+void virtualMethods();
 
 #endif //OOP_SAMPLES_HEADER_H
