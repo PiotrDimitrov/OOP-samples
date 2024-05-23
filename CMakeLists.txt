@@ -29,4 +29,5 @@ add_executable(OOP_samples main.cpp
         inheritance.cpp
         inherAccessMod.cpp
         multiInherit.cpp
-        inherAndConst.cpp)
+        inherAndConst.cpp
+        inherConstrChoise.cpp)

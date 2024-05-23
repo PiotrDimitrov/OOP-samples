@@ -26,5 +26,6 @@ void inheritance();
 void inherAccessMod();
 void multiInherit();
 void inherAndConst();
+void inherConstrChoise();
 
 #endif //OOP_SAMPLES_HEADER_H
