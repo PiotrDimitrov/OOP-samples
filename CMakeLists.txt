@@ -28,4 +28,5 @@ add_executable(OOP_samples main.cpp
         agregDelegat.cpp
         inheritance.cpp
         inherAccessMod.cpp
-        multiInherit.cpp)
+        multiInherit.cpp
+        inherAndConst.cpp)
