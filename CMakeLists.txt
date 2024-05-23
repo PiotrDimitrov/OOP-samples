@@ -31,4 +31,5 @@ add_executable(OOP_samples main.cpp
         multiInherit.cpp
         inherAndConst.cpp
         inherConstrChoise.cpp
-        virtualMethods.cpp)
+        virtualMethods.cpp
+        virtualOverride.cpp)

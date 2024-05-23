@@ -28,5 +28,6 @@ void multiInherit();
 void inherAndConst();
 void inherConstrChoise();
 void virtualMethods();
+void virtualOverride();
 
 #endif //OOP_SAMPLES_HEADER_H
