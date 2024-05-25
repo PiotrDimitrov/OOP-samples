@@ -2,5 +2,5 @@
 #include "header.h"
 
 int main() {
-    virtualOverride();
+    virtualDestructor();
 }

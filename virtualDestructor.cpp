@@ -24,3 +24,10 @@ void virtualDestructor() {
     A *bptr = new B;
     delete bptr; //without virtual destructor, B memory will not be deallocated
 }
+//OUTPUT:
+//
+//A: Dynamic memory allocated
+//B: Dynamic memory allocated
+//B: Dynamic memory deallocated
+//A: Dynamic memory deallocated
+
