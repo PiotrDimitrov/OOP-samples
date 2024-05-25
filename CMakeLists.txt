@@ -34,4 +34,5 @@ add_executable(OOP_samples main.cpp
         virtualMethods.cpp
         virtualOverride.cpp
         abstractClass.cpp
-        virtualDestructor.cpp)
+        virtualDestructor.cpp
+        pureVirtDestr.cpp)

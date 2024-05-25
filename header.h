@@ -31,5 +31,6 @@ void virtualMethods();
 void virtualOverride();
 void abstractClass();
 void virtualDestructor();
+void pureVirtDestr();
 
 #endif //OOP_SAMPLES_HEADER_H
