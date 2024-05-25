@@ -32,5 +32,6 @@ void virtualOverride();
 void abstractClass();
 void virtualDestructor();
 void pureVirtDestr();
+void delgatConstr();
 
 #endif //OOP_SAMPLES_HEADER_H
