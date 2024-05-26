@@ -37,4 +37,5 @@ add_executable(OOP_samples main.cpp
         virtualDestructor.cpp
         pureVirtDestr.cpp
         delegatConstr.cpp
-        baseVirtMethod.cpp)
+        baseVirtMethod.cpp
+        sameInherMethods.cpp)

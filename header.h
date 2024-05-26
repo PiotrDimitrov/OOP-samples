@@ -34,5 +34,6 @@ void virtualDestructor();
 void pureVirtDestr();
 void delgatConstr();
 void baseVirtMethod();
+void sameInherMethods();
 
 #endif //OOP_SAMPLES_HEADER_H
