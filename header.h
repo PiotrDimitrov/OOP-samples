@@ -35,5 +35,7 @@ void pureVirtDestr();
 void delgatConstr();
 void baseVirtMethod();
 void sameInherMethods();
+void interface();
+void romboidInher();
 
 #endif //OOP_SAMPLES_HEADER_H

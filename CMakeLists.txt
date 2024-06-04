@@ -38,4 +38,6 @@ add_executable(OOP_samples main.cpp
         pureVirtDestr.cpp
         delegatConstr.cpp
         baseVirtMethod.cpp
-        sameInherMethods.cpp)
+        sameInherMethods.cpp
+        interface.cpp
+        romboidInher.cpp)
