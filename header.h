@@ -37,5 +37,8 @@ void baseVirtMethod();
 void sameInherMethods();
 void interface();
 void romboidInher();
+void workFiles();
+void classObjFile();
+void fstream();
 
 #endif //OOP_SAMPLES_HEADER_H

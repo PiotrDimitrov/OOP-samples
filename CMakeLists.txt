@@ -40,4 +40,6 @@ add_executable(OOP_samples main.cpp
         baseVirtMethod.cpp
         sameInherMethods.cpp
         interface.cpp
-        romboidInher.cpp)
+        romboidInher.cpp
+        workFiles.cpp
+        classObjFile.cpp)
