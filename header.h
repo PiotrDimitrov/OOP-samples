@@ -40,5 +40,6 @@ void romboidInher();
 void workFiles();
 void classObjFile();
 void fstream();
+void bitwiseOpOvrld();
 
 #endif //OOP_SAMPLES_HEADER_H

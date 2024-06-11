@@ -43,4 +43,5 @@ add_executable(OOP_samples main.cpp
         romboidInher.cpp
         workFiles.cpp
         classObjFile.cpp
-        fstream.cpp)
+        fstream.cpp
+        bitwiseOpOvrld.cpp)
