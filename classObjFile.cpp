@@ -50,10 +50,8 @@ void classOutput(std::string path){
 
 }
 
-
 void classObjFile() {
     //Point point(2, 3, 5);
-
     //classWriteIn(point);
     classOutput("MyFile.txt");
 
