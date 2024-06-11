@@ -42,4 +42,5 @@ add_executable(OOP_samples main.cpp
         interface.cpp
         romboidInher.cpp
         workFiles.cpp
-        classObjFile.cpp)
+        classObjFile.cpp
+        fstream.cpp)
